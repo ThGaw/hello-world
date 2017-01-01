@@ -1,2 +1,3 @@
 # hello-world
-I'm learning
+I'm learning (beginner).
+Thanks for your help!
